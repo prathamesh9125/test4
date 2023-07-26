@@ -39,4 +39,23 @@
 git branch ex1
    81  git branch -a
    82  git checkout ex1
+
+
+
+git pull
+   80  git branch ex1
+   81  git branch -a
+   82  git checkout ex1
+   //make changes
+   84  git add *
+   85  git commit -m "commit3"
+   
+   87  git push origin ex1
+   88  git checkout main
+   
+   91  git merge ex1
+   
+   94  git status
+   95  git commit -m "commit4"
+   96  git push origin main
    
