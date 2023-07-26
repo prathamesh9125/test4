@@ -23,6 +23,9 @@
 
 	git clone https://github.com/prathamesh9125/test2.git
 	//git remote add origin https://github.com/prathamesh9125/test2.git
+      ls
+   64  cd test4
+
    12  cd test2
 	git pull
 	//create file
