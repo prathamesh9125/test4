@@ -34,4 +34,9 @@
    31  git commit -m "testing"
 	git push
      
-    above all git commands
+    
+
+git branch ex1
+   81  git branch -a
+   82  git checkout ex1
+   
