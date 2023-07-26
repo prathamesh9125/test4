@@ -30,3 +30,5 @@
    22  git add *
    31  git commit -m "testing"
 	git push
+     
+    above all git commands
