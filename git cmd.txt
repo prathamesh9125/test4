@@ -1,0 +1,32 @@
+
+    1  git --version
+    2  git help config
+   29  git config --global user.email "pdkole123@gmail.com"
+   30  git config --global user.name "prathamesh9125"
+ 
+
+
+   11  mkdir test2
+   12  cd test2
+   19  git init
+	//create file
+   20  git status
+   22  git add *
+   31  git commit -m "testing"
+
+
+
+
+
+
+
+
+	git clone https://github.com/prathamesh9125/test2.git
+	//git remote add origin https://github.com/prathamesh9125/test2.git
+   12  cd test2
+	git pull
+	//create file
+   20  git status
+   22  git add *
+   31  git commit -m "testing"
+	git push
