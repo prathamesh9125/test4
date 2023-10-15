@@ -1,13 +1,13 @@
 
     1  git --version
     2  git help config
-   29  git config --global user.email "pdkole123@gmail.com"
-   30  git config --global user.name "prathamesh9125"
+   29  git config --global user.email "emailId@gmail.com"
+   30  git config --global user.name "gitUserName"
  
 
 
-   11  mkdir test2
-   12  cd test2
+   11  mkdir test4
+   12  cd test4
    19  git init
 	//create file
    20  git status
@@ -21,12 +21,11 @@
 
 
 
-	git clone https://github.com/prathamesh9125/test2.git
-	//git remote add origin https://github.com/prathamesh9125/test2.git
+	git clone https://github.com/gitUserName/test4.git
+	//git remote add origin https://github.com/gitUserName/test4.git
       ls
    64  cd test4
 
-   12  cd test2
 	git pull
 	//create file
    20  git status
